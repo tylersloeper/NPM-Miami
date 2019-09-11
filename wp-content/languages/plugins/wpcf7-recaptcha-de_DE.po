@@ -1,0 +1,121 @@
+# Translation of Plugins - Contact Form 7 &#8211; reCaptcha v2 - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Contact Form 7 &#8211; reCaptcha v2 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-13 06:34:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Contact Form 7 &#8211; reCaptcha v2 - Stable (latest release)\n"
+
+#: recaptcha-v2.php:71
+msgid "Please verify that you are not a robot."
+msgstr "Bitte beweisen, dass du kein Roboter bist."
+
+#: wpcf7-recaptcha.php:151
+msgid "Submit"
+msgstr "Absenden"
+
+#: wpcf7-recaptcha.php:148
+msgid "reCaptcha Version 2"
+msgstr "reCaptcha Version 2"
+
+#: wpcf7-recaptcha.php:147
+msgid "Default Usage"
+msgstr "Standard-Benutzung"
+
+#: wpcf7-recaptcha.php:140
+msgid "shortcode tag in your Contact Form 7 forms."
+msgstr "Shortcode-Tag in deinen Contact-Form-7-Formularen benutzen,"
+
+#: wpcf7-recaptcha.php:139
+msgid "You will still need to use the"
+msgstr "Du musst weiterhin das"
+
+#: wpcf7-recaptcha.php:138
+msgid "Select the version of reCaptcha you would like to use."
+msgstr "Die Version von reCaptcha auswählen, die du benutzen möchtest."
+
+#: wpcf7-recaptcha.php:133
+msgid "Your reCaptcha settings have been updated."
+msgstr "Deine reCaptcha-Einstellungen wurden aktualisiert."
+
+#: wpcf7-recaptcha.php:117
+msgid "This version of Contact Form 7 already uses reCaptcha version 2, you do not need 'Contact Form 7 - reCaptcha v2' installed at this time."
+msgstr "Diese Version von Contact Form 7 benutzt bereits reCaptcha Version 2, du musst 'Contact Form 7 - reCaptcha v2' nicht installieren."
+
+#: wpcf7-recaptcha.php:81 wpcf7-recaptcha.php:82
+msgid "reCaptcha Version"
+msgstr "reCaptcha-Version"
+
+#: recaptcha-v2.php:430
+msgid "Insert Tag"
+msgstr "Tag einfügen"
+
+#: recaptcha-v2.php:417
+msgid "Class attribute"
+msgstr "Klassen-Attribut"
+
+#: recaptcha-v2.php:412
+msgid "Id attribute"
+msgstr "ID-Attribut"
+
+#: recaptcha-v2.php:406
+msgid "Dark"
+msgstr "Dunkel"
+
+#: recaptcha-v2.php:404
+msgid "Light"
+msgstr "Hell"
+
+#: recaptcha-v2.php:400 recaptcha-v2.php:403
+msgid "Theme"
+msgstr "Theme"
+
+#: recaptcha-v2.php:394
+msgid "Compact"
+msgstr "Kompakt"
+
+#: recaptcha-v2.php:392
+msgid "Normal"
+msgstr "Normal"
+
+#: recaptcha-v2.php:388 recaptcha-v2.php:391
+msgid "Size"
+msgstr "Größe"
+
+#: recaptcha-v2.php:377
+msgid "Generate a form-tag for a reCAPTCHA widget. For more details, see %s."
+msgstr "Erzeuge ein Formular-Tag für ein reCAPTCHA-Widget. Für weitere Details, siehe %s."
+
+#: recaptcha-v2.php:369 recaptcha-v2.php:378
+msgid "https://contactform7.com/recaptcha/"
+msgstr "https://contactform7.com/recaptcha/"
+
+#: recaptcha-v2.php:369
+msgid "To use reCAPTCHA, first you need to install an API key pair. For more details, see %s."
+msgstr "Um reCAPTCHA benutzen zu können, musst du zuerst ein AP-Schlüsselpaar installieren. Für weitere Details, siehe %s."
+
+#: recaptcha-v2.php:338 recaptcha-v2.php:369 recaptcha-v2.php:378
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#. Author URI of the plugin
+msgid "http://www.iqcomputing.com/"
+msgstr "http://www.iqcomputing.com/"
+
+#. Author of the plugin
+msgid "IQComputing"
+msgstr "IQComputing"
+
+#. Description of the plugin
+msgid "ReCaptcha v2 Fix for Contact Form 7 5.1 and later."
+msgstr "ReCaptcha v2 Fix für Contact Form 7 5.1 und höher."
+
+#. Plugin Name of the plugin
+#: wpcf7-recaptcha.php:116 wpcf7-recaptcha.php:128
+msgid "Contact Form 7 - reCaptcha v2"
+msgstr "Contact Form 7 - reCaptcha v2"

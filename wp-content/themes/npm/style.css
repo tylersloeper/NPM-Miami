@@ -1,0 +1,132 @@
+/*
+	Theme Name: NPM
+	Theme URI: http://npmsite.goil.co.il/
+	Description: npm
+	Version: 1.4.3
+	Author: Todd Motto (@toddmotto)
+	Author URI: http://toddmotto.com
+	Tags: Blank, HTML5, CSS3
+
+	License: MIT
+	License URI: 1
+*/
+
+/*------------------------------------*\
+    MAIN
+\*------------------------------------*/
+
+/* global box-sizing */
+*,
+*:after,
+*:before {
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	-webkit-font-smoothing:antialiased;
+	font-smoothing:antialiased;
+	text-rendering:optimizeLegibility;
+}
+/* html element 62.5% font-size for REM use */
+html {
+	font-size:62.5%;
+}
+body {
+
+}
+/* clear */
+.clear:before,
+.clear:after {
+    content:' ';
+    display:table;
+}
+
+.clear:after {
+    clear:both;
+}
+.clear {
+    *zoom:1;
+}
+img {
+	max-width:100%;
+	vertical-align:bottom;
+}
+a {
+	color:#444;
+	text-decoration:none;
+}
+a:hover {
+	color:#444;
+}
+a:focus {
+	outline:0;
+}
+a:hover,
+a:active {
+	outline:0;
+}
+.frtg{
+	width: 100%;
+    height: 39px;
+    position: relative;
+    top: 8px;
+}
+.asda{
+	width: 20%;left: 15px !important; bottom: 0;font-size: 8px !important;font-weight: normal;    text-shadow: none;
+}
+.slick-dots li{
+	display:none !important;
+}
+.wpcp-carousel-section:not(.wpcp-product-carousel) .wpcp-single-item{
+	    background: #f9f9f900;
+}
+@media all and (max-width: 550px) {
+	.coo-popoup .content {
+        display: block;
+    width: 82% !important;
+    max-width: 363px;
+	height: 72%;
+    position: fixed;
+    top: 5% !important;
+    left: 5% !important;
+	    transform: none !important;
+    box-shadow: 0 4px 10px 2px rgba(0, 0, 0, 0.5);
+    background: #eee8ea;
+    background: -moz-linear-gradient(-45deg, #eee8ea 0%, #d9ebeb 100%);
+    background: -webkit-linear-gradient(-45deg, #eee8ea 0%, #d9ebeb 100%);
+    background: linear-gradient(135deg, #eee8ea 0%, #d9ebeb 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eee8ea', endColorstr='#d9ebeb', GradientType=1);
+    color: #000000;
+}
+.asda{
+	width: 45%;left: 15px !important; bottom: 0;font-size: 8px !important;font-weight: normal;    text-shadow: none;
+}
+.frtg{
+	width: 50%;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+}
+
+.activecompany{
+   border-top: 7px solid #1FC3F3;
+   border-bottom: 7px solid #1FC3F3;
+}
+
+/*hanlde owl carusel outline issue*/
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    background: 0 0;
+    color: inherit;
+    border: none;
+    padding: 0!important;
+    font: inherit;
+    outline: none;
+}
+
+body.page-template.page-template-Spotlight-page .ahsgdh {
+ margin-top:1em;
+}
+
+body.page-template.page-template-Spotlight-page .sbannertr{
+  width: 40%;
+  max-width: 500px;
+}
